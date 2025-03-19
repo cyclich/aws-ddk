@@ -1,4 +1,13 @@
 
+## [1.4.1](https://github.com/awslabs/aws-ddk/compare/v1.4.0...v1.4.1) (2025-03-19)
+
+
+### Bug Fixes
+
+* correct build errors ([e1b955d](https://github.com/awslabs/aws-ddk/commit/e1b955dd23d1dbc5558882d2d7b717fb984fb720))
+* remove commented line ([7a0f5e6](https://github.com/awslabs/aws-ddk/commit/7a0f5e6f673812041901d7e1356e643e43ce8f42))
+* yarn.lock ([909bde7](https://github.com/awslabs/aws-ddk/commit/909bde79bfd973e4415b785f0656eece9b13801b))
+
 ## [1.4.0](https://github.com/awslabs/aws-ddk/compare/v1.3.1...v1.4.0) (2023-12-28)
 
 
